@@ -1,51 +1,25 @@
-<h1 align="center">Hi 👋, I'm Purva Chopade</h1>
-<h3 align="center">B.Tech AI & Data Science Student | Software Developer | AI & ML Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+Data+Science+Student;Android+Developer;Web+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
-</p>
-
----
-
-# 💫 About Me
-
-🎓 **B.Tech in Artificial Intelligence & Data Science** at K.K. Wagh Institute of Engineering Education & Research (2023–2027)
-
-🌱 Currently learning **Generative AI, Machine Learning, React, Node.js & Android Development**
-
-💻 Passionate about **Software Development, AI, Machine Learning and Open Source**
-
-📱 Building Android and Web Applications
-
-💼 Web Development Intern @ **InternPe (2025)**
-
-🏗️ Engineering Job Simulation – **Forage (2026)**
-
+# 💫 About Me:
+🎓 B.Tech AI & Data Science @ KKWIEER'27 | CGPA: 8.09  
+💻 Software Developer | Android & Web Development Enthusiast  
+📱 Built Android & Web Applications using Kotlin, React & Node.js  
+🤖 Passionate about AI, Machine Learning & Generative AI  
+💼 Web Development Intern @ InternPe (2025)  
+🏗️ Engineering Job Simulation – Forage (2026)  
 📍 Nashik, Maharashtra, India
 
-📫 Reach me at **purvachopade1665@gmail.com**
+---
+
+## 🌐 Socials:
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/purvachopade1665)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purva-chopade-b0156a351/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purvachopade1665@gmail.com)
 
 ---
 
-# 🌐 Connect with Me
-
-<p align="left">
-<a href="https://github.com/purvachopade1665" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/purva-chopade-b0156a351/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:purvachopade1665@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
+# 💻 Tech Stack:
 
 ### 👨‍💻 Languages
 
@@ -59,8 +33,8 @@
 ### ⚛️ Frameworks & Technologies
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
@@ -79,4 +53,37 @@
 
 ### 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05033?style
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🏆 Featured Projects
+
+### 📱 Tourist Guide App
+
+- Kotlin, Jetpack Compose, MVVM, SQLite
+- Android application for exploring tourist places, hotels, restaurants, and travel details.
+
+### 🍽️ MealMate
+
+- React, Tailwind CSS, Node.js, Express.js, PostgreSQL
+- Food ordering platform with authentication, cart, order tracking, and admin dashboard.
+
+---
+
+## 📜 Certifications
+
+🏅 Microsoft – Power BI for Beginners
+
+🏅 Deloitte – Data Analytics Virtual Internship
+
+🏅 HP LIFE – AI for Beginners
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
